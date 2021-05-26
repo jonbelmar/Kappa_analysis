@@ -1,0 +1,406 @@
+diamond v0.9.14.115 | by Benjamin Buchfink <buchfink@gmail.com>
+Licensed under the GNU AGPL <https://www.gnu.org/licenses/agpl.txt>
+Check http://github.com/bbuchfink/diamond for updates.
+
+#CPU threads: 8
+Scoring parameters: (Matrix=BLOSUM62 Lambda=0.267 K=0.041 Penalties=11/1)
+Database file: GCF_000001215.4_Release_6_plus_ISO1_MT_protein.faa
+Opening the database file...  [0.005809s]
+Loading sequences...  [9.59464s]
+Masking sequences...  [1.86375s]
+Writing sequences...  [9.88155s]
+Loading sequences...  [0.000201s]
+Writing trailer...  [0.002953s]
+Closing the input file...  [0.000522s]
+Closing the database file...  [0.001294s]
+Processed 30717 sequences, 20306421 letters.
+Total time = 21.3572s
+GCF_000001215.4_Release_6_plus_ISO1_MT_protein
+qseqid                 sseqid           bitscore evalue qcovhsp pident
+tr|C0H5W3|C0H5W3_BOTFU	NP_476977.1	359.4	6.5e-99	61.0	55.2
+tr|C0H5W3|C0H5W3_BOTFU	NP_723479.1	359.4	6.5e-99	61.0	55.2
+tr|C0H5W3|C0H5W3_BOTFU	NP_995672.1	359.4	6.5e-99	61.0	55.2
+tr|C0H5W3|C0H5W3_BOTFU	NP_524097.2	352.4	7.9e-97	61.4	52.2
+tr|C0H5W3|C0H5W3_BOTFU	NP_730083.2	352.4	7.9e-97	61.4	52.2
+tr|C0H5W3|C0H5W3_BOTFU	NP_651819.1	292.0	1.3e-78	60.8	46.1
+tr|C0H5W3|C0H5W3_BOTFU	NP_733396.3	292.0	1.3e-78	60.8	46.1
+tr|C0H5W3|C0H5W3_BOTFU	NP_733397.2	280.0	5.0e-75	61.6	45.0
+tr|C0H5W3|C0H5W3_BOTFU	NP_524595.2	275.0	1.6e-73	61.6	44.7
+tr|C0H5W3|C0H5W3_BOTFU	NP_001014464.1	265.4	1.3e-70	61.4	43.4
+diamond v0.9.14.115 | by Benjamin Buchfink <buchfink@gmail.com>
+Licensed under the GNU AGPL <https://www.gnu.org/licenses/agpl.txt>
+Check http://github.com/bbuchfink/diamond for updates.
+
+#CPU threads: 8
+Scoring parameters: (Matrix=BLOSUM62 Lambda=0.267 K=0.041 Penalties=11/1)
+Database file: GCF_000001405.39_GRCh38.p13_protein.faa
+Opening the database file...  [0.00623s]
+Loading sequences...  [37.4332s]
+Masking sequences...  [5.38551s]
+Writing sequences...  [29.7641s]
+Loading sequences...  [0.000194s]
+Writing trailer...  [0.008572s]
+Closing the input file...  [0.000973s]
+Closing the database file...  [0.002056s]
+Processed 116149 sequences, 77159190 letters.
+Total time = 72.603s
+GCF_000001405.39_GRCh38.p13_protein
+qseqid                 sseqid           bitscore evalue qcovhsp pident
+tr|C0H5W3|C0H5W3_BOTFU	NP_001229786.1	363.6	1.3e-99	62.0	54.0
+tr|C0H5W3|C0H5W3_BOTFU	NP_001229787.1	363.6	1.3e-99	62.0	54.0
+tr|C0H5W3|C0H5W3_BOTFU	NP_001229788.1	363.6	1.3e-99	62.0	54.0
+tr|C0H5W3|C0H5W3_BOTFU	NP_001229789.1	363.6	1.3e-99	62.0	54.0
+tr|C0H5W3|C0H5W3_BOTFU	NP_001362489.1	363.6	1.3e-99	62.0	54.0
+tr|C0H5W3|C0H5W3_BOTFU	NP_001362490.1	363.6	1.3e-99	62.0	54.0
+tr|C0H5W3|C0H5W3_BOTFU	NP_001362491.1	363.6	1.3e-99	62.0	54.0
+tr|C0H5W3|C0H5W3_BOTFU	NP_001362492.1	363.6	1.3e-99	62.0	54.0
+tr|C0H5W3|C0H5W3_BOTFU	NP_001362493.1	363.6	1.3e-99	62.0	54.0
+tr|C0H5W3|C0H5W3_BOTFU	NP_001362494.1	363.6	1.3e-99	62.0	54.0
+diamond v0.9.14.115 | by Benjamin Buchfink <buchfink@gmail.com>
+Licensed under the GNU AGPL <https://www.gnu.org/licenses/agpl.txt>
+Check http://github.com/bbuchfink/diamond for updates.
+
+#CPU threads: 8
+Scoring parameters: (Matrix=BLOSUM62 Lambda=0.267 K=0.041 Penalties=11/1)
+Database file: GCF_000001635.27_GRCm39_protein.faa
+Opening the database file...  [0.007907s]
+Loading sequences...  [35.0281s]
+Masking sequences...  [5.44016s]
+Writing sequences...  [25.0467s]
+Loading sequences...  [0.00029s]
+Writing trailer...  [0.010796s]
+Closing the input file...  [0.0017s]
+Closing the database file...  [0.002204s]
+Processed 92499 sequences, 64410305 letters.
+Total time = 65.5416s
+GCF_000001635.27_GRCm39_protein
+qseqid                 sseqid           bitscore evalue qcovhsp pident
+tr|C0H5W3|C0H5W3_BOTFU	NP_001157670.1	362.8	1.9e-99	60.8	54.7
+tr|C0H5W3|C0H5W3_BOTFU	NP_001157671.1	362.8	1.9e-99	60.8	54.7
+tr|C0H5W3|C0H5W3_BOTFU	NP_001157672.1	362.8	1.9e-99	60.8	54.7
+tr|C0H5W3|C0H5W3_BOTFU	NP_035230.1	362.8	1.9e-99	60.8	54.7
+tr|C0H5W3|C0H5W3_BOTFU	NP_001264827.1	361.3	5.4e-99	60.8	55.1
+tr|C0H5W3|C0H5W3_BOTFU	NP_032880.1	361.3	5.4e-99	60.8	55.1
+tr|C0H5W3|C0H5W3_BOTFU	NP_058675.1	345.1	4.0e-94	61.6	52.0
+tr|C0H5W3|C0H5W3_BOTFU	XP_036018833.1	337.0	1.1e-91	56.9	53.8
+tr|C0H5W3|C0H5W3_BOTFU	XP_006527972.1	308.9	3.2e-83	61.6	48.7
+tr|C0H5W3|C0H5W3_BOTFU	NP_001013855.1	281.6	5.5e-75	64.7	44.7
+diamond v0.9.14.115 | by Benjamin Buchfink <buchfink@gmail.com>
+Licensed under the GNU AGPL <https://www.gnu.org/licenses/agpl.txt>
+Check http://github.com/bbuchfink/diamond for updates.
+
+#CPU threads: 8
+Scoring parameters: (Matrix=BLOSUM62 Lambda=0.267 K=0.041 Penalties=11/1)
+Database file: GCF_000001735.4_TAIR10.1_protein.faa
+Opening the database file...  [0.005335s]
+Loading sequences...  [10.5711s]
+Masking sequences...  [1.35948s]
+Writing sequences...  [9.33539s]
+Loading sequences...  [0.000194s]
+Writing trailer...  [0.003527s]
+Closing the input file...  [0.000539s]
+Closing the database file...  [0.00663s]
+Processed 48265 sequences, 20843494 letters.
+Total time = 21.2843s
+GCF_000001735.4_TAIR10.1_protein
+qseqid                 sseqid           bitscore evalue qcovhsp pident
+tr|C0H5W3|C0H5W3_BOTFU	NP_001327294.1	255.4	1.4e-67	61.4	39.2
+tr|C0H5W3|C0H5W3_BOTFU	NP_001327295.1	255.4	1.4e-67	61.4	39.2
+tr|C0H5W3|C0H5W3_BOTFU	NP_187484.1	255.4	1.4e-67	61.4	39.2
+tr|C0H5W3|C0H5W3_BOTFU	NP_850543.1	255.4	1.4e-67	61.4	39.2
+tr|C0H5W3|C0H5W3_BOTFU	NP_001326081.1	252.7	8.8e-67	61.4	38.5
+tr|C0H5W3|C0H5W3_BOTFU	NP_187485.1	252.7	8.8e-67	61.4	38.5
+tr|C0H5W3|C0H5W3_BOTFU	NP_001318254.1	232.3	1.2e-60	64.5	34.7
+tr|C0H5W3|C0H5W3_BOTFU	NP_001325157.1	232.3	1.2e-60	64.5	34.7
+tr|C0H5W3|C0H5W3_BOTFU	NP_179637.2	232.3	1.2e-60	64.5	34.7
+tr|C0H5W3|C0H5W3_BOTFU	NP_201037.1	231.1	2.7e-60	64.5	36.1
+diamond v0.9.14.115 | by Benjamin Buchfink <buchfink@gmail.com>
+Licensed under the GNU AGPL <https://www.gnu.org/licenses/agpl.txt>
+Check http://github.com/bbuchfink/diamond for updates.
+
+#CPU threads: 8
+Scoring parameters: (Matrix=BLOSUM62 Lambda=0.267 K=0.041 Penalties=11/1)
+Database file: GCF_000002035.6_GRCz11_protein.faa
+Opening the database file...  [0.005325s]
+Loading sequences...  [18.4509s]
+Masking sequences...  [2.64544s]
+Writing sequences...  [14.7533s]
+Loading sequences...  [0.001199s]
+Writing trailer...  [0.006017s]
+Closing the input file...  [0.000562s]
+Closing the database file...  [0.001526s]
+Processed 52829 sequences, 38449214 letters.
+Total time = 35.8665s
+GCF_000002035.6_GRCz11_protein
+qseqid                 sseqid           bitscore evalue qcovhsp pident
+tr|C0H5W3|C0H5W3_BOTFU	NP_001030148.1	371.3	3.1e-102	60.8	56.8
+tr|C0H5W3|C0H5W3_BOTFU	XP_005171151.1	371.3	3.1e-102	60.8	56.8
+tr|C0H5W3|C0H5W3_BOTFU	NP_957317.1	365.2	2.2e-100	62.2	54.8
+tr|C0H5W3|C0H5W3_BOTFU	NP_001076309.1	359.0	1.6e-98	61.0	54.5
+tr|C0H5W3|C0H5W3_BOTFU	XP_021326630.1	359.0	1.6e-98	61.0	54.5
+tr|C0H5W3|C0H5W3_BOTFU	NP_001003470.1	355.9	1.4e-97	60.8	53.7
+tr|C0H5W3|C0H5W3_BOTFU	XP_690430.2	342.0	2.0e-93	62.0	50.0
+tr|C0H5W3|C0H5W3_BOTFU	XP_009304717.2	282.3	1.9e-75	61.2	46.5
+tr|C0H5W3|C0H5W3_BOTFU	XP_017213990.1	282.3	1.9e-75	61.2	46.5
+tr|C0H5W3|C0H5W3_BOTFU	XP_021328181.1	282.3	1.9e-75	61.2	46.5
+diamond v0.9.14.115 | by Benjamin Buchfink <buchfink@gmail.com>
+Licensed under the GNU AGPL <https://www.gnu.org/licenses/agpl.txt>
+Check http://github.com/bbuchfink/diamond for updates.
+
+#CPU threads: 8
+Scoring parameters: (Matrix=BLOSUM62 Lambda=0.267 K=0.041 Penalties=11/1)
+Database file: GCF_000002315.6_GRCg6a_protein.faa
+Opening the database file...  [0.006549s]
+Loading sequences...  [18.0071s]
+Masking sequences...  [2.41864s]
+Writing sequences...  [14.203s]
+Loading sequences...  [0.000211s]
+Writing trailer...  [0.00451s]
+Closing the input file...  [0.000633s]
+Closing the database file...  [0.002521s]
+Processed 49673 sequences, 36141066 letters.
+Total time = 34.6454s
+GCF_000002315.6_GRCg6a_protein
+qseqid                 sseqid           bitscore evalue qcovhsp pident
+tr|C0H5W3|C0H5W3_BOTFU	XP_004936715.1	365.5	1.6e-100	60.8	55.1
+tr|C0H5W3|C0H5W3_BOTFU	XP_004936716.1	365.5	1.6e-100	60.8	55.1
+tr|C0H5W3|C0H5W3_BOTFU	XP_015146370.1	365.5	1.6e-100	60.8	55.1
+tr|C0H5W3|C0H5W3_BOTFU	XP_015146372.1	365.5	1.6e-100	60.8	55.1
+tr|C0H5W3|C0H5W3_BOTFU	XP_015146373.1	365.5	1.6e-100	60.8	55.1
+tr|C0H5W3|C0H5W3_BOTFU	XP_015146375.1	365.5	1.6e-100	60.8	55.1
+tr|C0H5W3|C0H5W3_BOTFU	XP_025008715.1	365.5	1.6e-100	60.8	55.1
+tr|C0H5W3|C0H5W3_BOTFU	XP_025008716.1	365.5	1.6e-100	60.8	55.1
+tr|C0H5W3|C0H5W3_BOTFU	XP_015133214.1	344.7	2.9e-94	58.9	52.6
+tr|C0H5W3|C0H5W3_BOTFU	XP_003641507.2	282.0	2.3e-75	64.7	44.7
+diamond v0.9.14.115 | by Benjamin Buchfink <buchfink@gmail.com>
+Licensed under the GNU AGPL <https://www.gnu.org/licenses/agpl.txt>
+Check http://github.com/bbuchfink/diamond for updates.
+
+#CPU threads: 8
+Scoring parameters: (Matrix=BLOSUM62 Lambda=0.267 K=0.041 Penalties=11/1)
+Database file: GCF_000002985.6_WBcel235_protein.faa
+Opening the database file...  [0.005966s]
+Loading sequences...  [9.6411s]
+Masking sequences...  [0.97785s]
+Writing sequences...  [5.67054s]
+Loading sequences...  [0.00021s]
+Writing trailer...  [0.002659s]
+Closing the input file...  [0.00054s]
+Closing the database file...  [0.001313s]
+Processed 28350 sequences, 13428468 letters.
+Total time = 16.3028s
+GCF_000002985.6_WBcel235_protein
+qseqid                 sseqid           bitscore evalue qcovhsp pident
+tr|C0H5W3|C0H5W3_BOTFU	NP_493605.1	365.2	7.8e-101	60.8	56.4
+tr|C0H5W3|C0H5W3_BOTFU	NP_740954.1	365.2	7.8e-101	60.8	56.4
+tr|C0H5W3|C0H5W3_BOTFU	NP_740956.1	365.2	7.8e-101	60.8	56.4
+tr|C0H5W3|C0H5W3_BOTFU	NP_740958.1	365.2	7.8e-101	60.8	56.4
+tr|C0H5W3|C0H5W3_BOTFU	NP_740960.1	365.2	7.8e-101	60.8	56.4
+tr|C0H5W3|C0H5W3_BOTFU	NP_740962.1	365.2	7.8e-101	60.8	56.4
+tr|C0H5W3|C0H5W3_BOTFU	NP_001366905.1	342.8	4.2e-94	56.5	56.4
+tr|C0H5W3|C0H5W3_BOTFU	NP_001367022.1	342.8	4.2e-94	56.5	56.4
+tr|C0H5W3|C0H5W3_BOTFU	NP_001367023.1	342.8	4.2e-94	56.5	56.4
+tr|C0H5W3|C0H5W3_BOTFU	NP_001367024.1	342.8	4.2e-94	56.5	56.4
+diamond v0.9.14.115 | by Benjamin Buchfink <buchfink@gmail.com>
+Licensed under the GNU AGPL <https://www.gnu.org/licenses/agpl.txt>
+Check http://github.com/bbuchfink/diamond for updates.
+
+#CPU threads: 8
+Scoring parameters: (Matrix=BLOSUM62 Lambda=0.267 K=0.041 Penalties=11/1)
+Database file: GCF_000090745.1_AnoCar2.0_protein.faa
+Opening the database file...  [0.005858s]
+Loading sequences...  [11.7166s]
+Masking sequences...  [1.85355s]
+Writing sequences...  [10.3275s]
+Loading sequences...  [0.000232s]
+Writing trailer...  [0.00298s]
+Closing the input file...  [0.000759s]
+Closing the database file...  [0.001678s]
+Processed 34826 sequences, 22663927 letters.
+Total time = 23.9115s
+GCF_000090745.1_AnoCar2.0_protein
+qseqid                 sseqid           bitscore evalue qcovhsp pident
+tr|C0H5W3|C0H5W3_BOTFU	XP_003223137.1	363.6	3.8e-100	60.8	55.1
+tr|C0H5W3|C0H5W3_BOTFU	XP_008112368.1	363.6	3.8e-100	60.8	55.1
+tr|C0H5W3|C0H5W3_BOTFU	XP_008112369.1	363.6	3.8e-100	60.8	55.1
+tr|C0H5W3|C0H5W3_BOTFU	XP_008112370.1	363.6	3.8e-100	60.8	55.1
+tr|C0H5W3|C0H5W3_BOTFU	XP_008112371.1	363.6	3.8e-100	60.8	55.1
+tr|C0H5W3|C0H5W3_BOTFU	XP_008112372.1	363.6	3.8e-100	60.8	55.1
+tr|C0H5W3|C0H5W3_BOTFU	XP_016850377.1	363.6	3.8e-100	60.8	55.1
+tr|C0H5W3|C0H5W3_BOTFU	XP_008102820.1	360.5	3.2e-99	61.0	54.5
+tr|C0H5W3|C0H5W3_BOTFU	XP_016846888.1	360.5	3.2e-99	61.0	54.5
+tr|C0H5W3|C0H5W3_BOTFU	XP_016846889.1	360.5	3.2e-99	61.0	54.5
+diamond v0.9.14.115 | by Benjamin Buchfink <buchfink@gmail.com>
+Licensed under the GNU AGPL <https://www.gnu.org/licenses/agpl.txt>
+Check http://github.com/bbuchfink/diamond for updates.
+
+#CPU threads: 8
+Scoring parameters: (Matrix=BLOSUM62 Lambda=0.267 K=0.041 Penalties=11/1)
+Database file: GCF_000146045.2_R64_protein.faa
+Opening the database file...  [0.006148s]
+Loading sequences...  [1.6944s]
+Masking sequences...  [0.273495s]
+Writing sequences...  [1.5119s]
+Loading sequences...  [0.000257s]
+Writing trailer...  [0.001121s]
+Closing the input file...  [0.000661s]
+Closing the database file...  [0.001233s]
+Processed 6002 sequences, 2931506 letters.
+Total time = 3.49156s
+GCF_000146045.2_R64_protein
+qseqid                 sseqid           bitscore evalue qcovhsp pident
+tr|C0H5W3|C0H5W3_BOTFU	NP_015121.1	508.8	9.6e-145	65.9	72.3
+tr|C0H5W3|C0H5W3_BOTFU	NP_012755.1	494.6	1.9e-140	71.0	66.5
+tr|C0H5W3|C0H5W3_BOTFU	NP_012371.2	490.0	4.6e-139	66.3	69.7
+tr|C0H5W3|C0H5W3_BOTFU	NP_012796.1	268.1	2.8e-72	60.2	44.6
+tr|C0H5W3|C0H5W3_BOTFU	NP_013822.1	262.7	1.2e-70	60.2	43.9
+tr|C0H5W3|C0H5W3_BOTFU	NP_012075.1	248.4	2.3e-66	62.6	43.6
+tr|C0H5W3|C0H5W3_BOTFU	NP_014445.1	219.5	1.2e-57	56.5	40.3
+tr|C0H5W3|C0H5W3_BOTFU	NP_010015.3	214.9	2.9e-56	56.5	39.3
+tr|C0H5W3|C0H5W3_BOTFU	NP_009445.2	214.5	3.7e-56	67.8	37.3
+tr|C0H5W3|C0H5W3_BOTFU	NP_014238.3	204.5	3.9e-53	59.8	32.0
+diamond v0.9.14.115 | by Benjamin Buchfink <buchfink@gmail.com>
+Licensed under the GNU AGPL <https://www.gnu.org/licenses/agpl.txt>
+Check http://github.com/bbuchfink/diamond for updates.
+
+#CPU threads: 8
+Scoring parameters: (Matrix=BLOSUM62 Lambda=0.267 K=0.041 Penalties=11/1)
+Database file: GCF_000327385.1_Helro1_protein.faa
+Opening the database file...  [0.00629s]
+Loading sequences...  [5.10422s]
+Masking sequences...  [0.59507s]
+Writing sequences...  [4.14575s]
+Loading sequences...  [0.000186s]
+Writing trailer...  [0.001863s]
+Closing the input file...  [0.000554s]
+Closing the database file...  [0.001093s]
+Processed 23822 sequences, 9005571 letters.
+Total time = 9.85719s
+GCF_000327385.1_Helro1_protein
+qseqid                 sseqid           bitscore evalue qcovhsp pident
+tr|C0H5W3|C0H5W3_BOTFU	XP_009056690.1	352.8	2.7e-97	60.8	54.7
+tr|C0H5W3|C0H5W3_BOTFU	XP_009053254.1	333.2	2.2e-91	62.8	50.0
+tr|C0H5W3|C0H5W3_BOTFU	XP_009062152.1	270.8	1.3e-72	66.3	42.1
+tr|C0H5W3|C0H5W3_BOTFU	XP_009061844.1	266.5	2.5e-71	61.4	44.7
+tr|C0H5W3|C0H5W3_BOTFU	XP_009064351.1	261.9	6.2e-70	58.5	45.4
+tr|C0H5W3|C0H5W3_BOTFU	XP_009066929.1	254.2	1.3e-67	61.0	41.9
+tr|C0H5W3|C0H5W3_BOTFU	XP_009043995.1	252.3	5.0e-67	60.8	43.0
+tr|C0H5W3|C0H5W3_BOTFU	XP_009061547.1	248.8	5.5e-66	61.4	41.5
+tr|C0H5W3|C0H5W3_BOTFU	XP_009065315.1	243.4	2.3e-64	59.8	41.0
+tr|C0H5W3|C0H5W3_BOTFU	XP_009053667.1	231.5	9.0e-61	61.2	39.7
+diamond v0.9.14.115 | by Benjamin Buchfink <buchfink@gmail.com>
+Licensed under the GNU AGPL <https://www.gnu.org/licenses/agpl.txt>
+Check http://github.com/bbuchfink/diamond for updates.
+
+#CPU threads: 8
+Scoring parameters: (Matrix=BLOSUM62 Lambda=0.267 K=0.041 Penalties=11/1)
+Database file: GCF_001663975.1_Xenopus_laevis_v2_protein.faa
+Opening the database file...  [0.006804s]
+Loading sequences...  [22.0006s]
+Masking sequences...  [3.2189s]
+Writing sequences...  [14.9728s]
+Loading sequences...  [0.000366s]
+Writing trailer...  [0.006072s]
+Closing the input file...  [0.001755s]
+Closing the database file...  [0.003725s]
+Processed 56667 sequences, 39136868 letters.
+Total time = 40.2153s
+GCF_001663975.1_Xenopus_laevis_v2_protein
+qseqid                 sseqid           bitscore evalue qcovhsp pident
+tr|C0H5W3|C0H5W3_BOTFU	NP_001080696.1	366.3	1.0e-100	61.0	55.2
+tr|C0H5W3|C0H5W3_BOTFU	XP_018114908.1	366.3	1.0e-100	61.0	55.2
+tr|C0H5W3|C0H5W3_BOTFU	XP_018113645.1	365.5	1.7e-100	61.0	54.9
+tr|C0H5W3|C0H5W3_BOTFU	XP_018113646.1	365.5	1.7e-100	61.0	54.9
+tr|C0H5W3|C0H5W3_BOTFU	NP_001093339.1	356.7	8.1e-98	61.0	53.9
+tr|C0H5W3|C0H5W3_BOTFU	XP_018109115.1	355.9	1.4e-97	60.8	54.1
+tr|C0H5W3|C0H5W3_BOTFU	XP_018109116.1	355.9	1.4e-97	60.8	54.1
+tr|C0H5W3|C0H5W3_BOTFU	XP_018109117.1	355.9	1.4e-97	60.8	54.1
+tr|C0H5W3|C0H5W3_BOTFU	XP_018101650.1	353.6	6.9e-97	61.2	52.0
+tr|C0H5W3|C0H5W3_BOTFU	XP_018080560.1	283.9	6.7e-76	62.0	45.9
+diamond v0.9.14.115 | by Benjamin Buchfink <buchfink@gmail.com>
+Licensed under the GNU AGPL <https://www.gnu.org/licenses/agpl.txt>
+Check http://github.com/bbuchfink/diamond for updates.
+
+#CPU threads: 8
+Scoring parameters: (Matrix=BLOSUM62 Lambda=0.267 K=0.041 Penalties=11/1)
+Database file: GCF_003254395.2_Amel_HAv3.1_protein.faa
+Opening the database file...  [0.005837s]
+Loading sequences...  [9.45841s]
+Masking sequences...  [1.24195s]
+Writing sequences...  [6.53252s]
+Loading sequences...  [0.000251s]
+Writing trailer...  [0.002532s]
+Closing the input file...  [0.000647s]
+Closing the database file...  [0.001472s]
+Processed 23471 sequences, 19110475 letters.
+Total time = 17.246s
+GCF_003254395.2_Amel_HAv3.1_protein
+qseqid                 sseqid           bitscore evalue qcovhsp pident
+tr|C0H5W3|C0H5W3_BOTFU	XP_393285.1	355.5	8.8e-98	61.0	54.9
+tr|C0H5W3|C0H5W3_BOTFU	XP_393711.3	354.8	1.5e-97	65.3	53.5
+tr|C0H5W3|C0H5W3_BOTFU	XP_006562899.1	341.3	1.7e-93	62.4	54.3
+tr|C0H5W3|C0H5W3_BOTFU	XP_006571428.1	323.2	4.8e-88	61.0	50.2
+tr|C0H5W3|C0H5W3_BOTFU	NP_001011581.1	265.4	1.2e-70	61.2	43.9
+tr|C0H5W3|C0H5W3_BOTFU	XP_026300306.1	265.4	1.2e-70	61.2	43.9
+tr|C0H5W3|C0H5W3_BOTFU	XP_026300308.1	265.4	1.2e-70	61.2	43.9
+tr|C0H5W3|C0H5W3_BOTFU	XP_026300309.1	265.4	1.2e-70	61.2	43.9
+tr|C0H5W3|C0H5W3_BOTFU	XP_026298977.1	259.6	6.6e-69	59.5	41.4
+tr|C0H5W3|C0H5W3_BOTFU	XP_026298980.1	259.6	6.6e-69	59.5	41.4
+diamond v0.9.14.115 | by Benjamin Buchfink <buchfink@gmail.com>
+Licensed under the GNU AGPL <https://www.gnu.org/licenses/agpl.txt>
+Check http://github.com/bbuchfink/diamond for updates.
+
+#CPU threads: 8
+Scoring parameters: (Matrix=BLOSUM62 Lambda=0.267 K=0.041 Penalties=11/1)
+Database file: GCF_004143615.1_amil_sf_1.1_protein.faa
+Opening the database file...  [0.006265s]
+Loading sequences...  [10.45s]
+Masking sequences...  [1.57862s]
+Writing sequences...  [8.58906s]
+Loading sequences...  [0.000222s]
+Writing trailer...  [0.003115s]
+Closing the input file...  [0.000558s]
+Closing the database file...  [0.001188s]
+Processed 35355 sequences, 20260521 letters.
+Total time = 20.6314s
+GCF_004143615.1_amil_sf_1.1_protein
+qseqid                 sseqid           bitscore evalue qcovhsp pident
+tr|C0H5W3|C0H5W3_BOTFU	XP_029197514.1	358.2	1.4e-98	60.8	54.7
+tr|C0H5W3|C0H5W3_BOTFU	XP_029197515.1	358.2	1.4e-98	60.8	54.7
+tr|C0H5W3|C0H5W3_BOTFU	XP_029185495.1	338.2	1.5e-92	61.0	50.3
+tr|C0H5W3|C0H5W3_BOTFU	XP_029197516.1	331.6	1.4e-90	56.9	53.8
+tr|C0H5W3|C0H5W3_BOTFU	XP_029194413.1	275.0	1.6e-73	61.4	43.9
+tr|C0H5W3|C0H5W3_BOTFU	XP_029194414.1	275.0	1.6e-73	61.4	43.9
+tr|C0H5W3|C0H5W3_BOTFU	XP_029194415.1	275.0	1.6e-73	61.4	43.9
+tr|C0H5W3|C0H5W3_BOTFU	XP_029194416.1	275.0	1.6e-73	61.4	43.9
+tr|C0H5W3|C0H5W3_BOTFU	XP_029194417.1	275.0	1.6e-73	61.4	43.9
+tr|C0H5W3|C0H5W3_BOTFU	XP_029194418.1	275.0	1.6e-73	61.4	43.9
+diamond v0.9.14.115 | by Benjamin Buchfink <buchfink@gmail.com>
+Licensed under the GNU AGPL <https://www.gnu.org/licenses/agpl.txt>
+Check http://github.com/bbuchfink/diamond for updates.
+
+#CPU threads: 8
+Scoring parameters: (Matrix=BLOSUM62 Lambda=0.267 K=0.041 Penalties=11/1)
+Database file: GCF_005508785.1_pea_aphid_22Mar2018_4r6ur_protein.faa
+Opening the database file...  [0.005958s]
+Loading sequences...  [8.45661s]
+Masking sequences...  [1.26924s]
+Writing sequences...  [8.0585s]
+Loading sequences...  [0.00022s]
+Writing trailer...  [0.002444s]
+Closing the input file...  [0.000624s]
+Closing the database file...  [0.00132s]
+Processed 28503 sequences, 15564248 letters.
+Total time = 17.798s
+GCF_005508785.1_pea_aphid_22Mar2018_4r6ur_protein
+qseqid                 sseqid           bitscore evalue qcovhsp pident
+tr|C0H5W3|C0H5W3_BOTFU	XP_008189819.1	363.2	3.4e-100	61.0	55.6
+tr|C0H5W3|C0H5W3_BOTFU	XP_008187060.2	272.7	6.1e-73	63.7	45.3
+tr|C0H5W3|C0H5W3_BOTFU	XP_001947963.1	271.6	1.4e-72	61.6	42.0
+tr|C0H5W3|C0H5W3_BOTFU	XP_029346848.1	256.9	3.5e-68	61.2	42.6
+tr|C0H5W3|C0H5W3_BOTFU	XP_029341321.1	252.7	6.6e-67	61.0	41.5
+tr|C0H5W3|C0H5W3_BOTFU	XP_001948356.1	248.4	1.2e-65	64.3	38.0
+tr|C0H5W3|C0H5W3_BOTFU	XP_001945932.2	247.3	2.8e-65	60.8	42.0
+tr|C0H5W3|C0H5W3_BOTFU	XP_008184966.1	246.9	3.6e-65	59.5	42.9
+tr|C0H5W3|C0H5W3_BOTFU	XP_016661485.1	246.5	4.7e-65	56.9	43.8
+tr|C0H5W3|C0H5W3_BOTFU	XP_016661486.1	246.5	4.7e-65	56.9	43.8
