@@ -24,3 +24,5 @@ echo "%Gaps";
 grep "# Gaps" $var.txt;
 
 done >TablaPKA1.txt
+
+cat *.fasta >pka1query.fasta
