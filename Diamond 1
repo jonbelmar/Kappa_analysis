@@ -1,7 +1,5 @@
-SCRIPT DIAMOND
+#SCRIPT DIAMOND 1
 diamond makedb --in ./BCalign.fasta --db ./DB_DIAMONaln3
 diamond blastp --query output_k.aa --db DB_DIAMONaln3.dmnd --evalue 0.01 >output_paln3.bls
 
-SCRIPT AUGUSTUS
-augustus --species=botrytis_cinerea B.cinere_c10_ref.fasta >output_botrytis.gff
-perl /usr/share/augustus/scripts/getAnnoFasta.pl output_botrytis.gff
+
