@@ -1,5 +1,0 @@
-#SCRIPT DIAMOND 1
-diamond makedb --in ./BCalign.fasta --db ./DB_DIAMONaln3
-diamond blastp --query output_k.aa --db DB_DIAMONaln3.dmnd --evalue 0.01 >output_paln3.bls
-
-
