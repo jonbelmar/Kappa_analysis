@@ -1,8 +1,0 @@
-#Augustus 
-# https://github.com/Gaius-Augustus/Augustus/blob/master/docs/RUNNING-AUGUSTUS.md#ppx
-
-#Gene prediction
-augustus --species=botrytis_cinerea --Kappa.fasta
-
-#Gene annotation
-perl /usr/share/augustus/scripts/getAnnoFasta.pl output.gff
